@@ -3,7 +3,7 @@
 This repository contains all materials from my term project, CPE393-Text Analytics. The purpose of this project is to display a heatmap of locations with road accidents from the JS100 official account's tweets.
 
 ### Web scraping
-We have done 3 approaches for scraping the data from twitter:\
+We have done 3 approaches for scraping the data from twitter:
 1. Twitter API v2 (fail): can call the API for only 15 mins so, we won't get enough data for our task
 2. NTScraper (fail): can't use the Thai account to scrape data
 3. Selenium (not a legal way but work!)
