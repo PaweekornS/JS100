@@ -9,10 +9,10 @@ We have done 3 approaches for scraping the data from twitter:\
 3. Selenium (not a legal way but work!)
 
 ### Extracting Location
-When we did the data exploration, we separated our dataset into 2 types which contained # and not. We used different approaches to extract the locations of each kind:
-1. Hashtag data
+When we did the data exploration, we separated our dataset into 2 types which are hashtag and none-hashtag data. We used different approaches to extract the locations of each kind:
+1. **Hashtag data**
 - Almost of the tweets contains the location at the second position of # e.g. #อุบัติเหตุ ... #<location>. From these insight, we decided to use a regular expression (regex) for extracting the location.
-2. None-hashtag data
+2. **None-hashtag data**
 - using thaiNER2.0 model from pythaiNLP package for extracting the location
 
 ### Data modelling and EDA
