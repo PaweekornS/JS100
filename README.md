@@ -25,7 +25,7 @@ When we did the data exploration, we separated our dataset into 2 types which ar
 ![image](https://github.com/user-attachments/assets/26e73211-b681-4d66-ba83-d601abbb384e)
 
 ## Team members
-Paweekorn Soratyathorn\ 
+Paweekorn Soratyathorn\
 Sawit Koseeyaumporn\
 Mawin Srichat\
 Pichawat Adulwiitayakorn
